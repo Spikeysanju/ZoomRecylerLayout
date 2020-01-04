@@ -11,7 +11,7 @@ Beautiful RecyclerView Zoom Animation for Android
 
 ## About
 
-Refer Here [Wiki](https://github.com/yadav-rahul/TastyToast/wiki)
+An beautiful Zoom Animation RecyclerView Items for Android using Kotlin. 
 
 ## Dependency
 
