@@ -7,7 +7,7 @@
 An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotlin. 
 
 ## Preview
-![gif](https://raw.githubusercontent.com/Spikeysanju/ZoomRecylerLayout/master/ezgif.com-video-to-gif.gif)
+![gif](https://github.com/Spikeysanju/ZoomRecylerLayout/blob/master/horizontal_scroll.gif)
 
 <table style="width:100%">
   <tr>
@@ -15,7 +15,7 @@ An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotl
     <th>2. Vertical Scroll</th> 
   </tr>
   <tr>
-    <td><img src = "https://github.com/Spikeysanju/ZoomRecylerLayout/blob/master/ezgif.com-video-to-gif.gif"/></td> 
+    <td><img src = "https://github.com/Spikeysanju/ZoomRecylerLayout/blob/master/horizontal_scroll.gif"/></td> 
     <td><img src = "https://github.com/Spikeysanju/ZoomRecylerLayout/blob/master/vertical_scroll.gif"/></td> 
    
   </tr>
