@@ -87,16 +87,6 @@ Add dependency in your app module
 ```
 
 
-Last parameter here is the type of toast you want to show.
-
-## Contributing
-
-Please fork this repository and contribute back using
-[pull requests](https://github.com/Spikeysanju/ZoomRecylerLayout/pulls).
-
-Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
-but will be thoroughly reviewed .
-
 ## License
 
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
