@@ -64,11 +64,11 @@ Add dependency in your app module
 ### Detailed Usage
 ```
 
-        val linearLayoutManager = CenterZoomLayoutManager(this)
+        val linearLayoutManager = ZoomRecyclerLayout(this)
         linearLayoutManager.orientation = LinearLayoutManager.HORIZONTAL
         linearLayoutManager.reverseLayout = true
         linearLayoutManager.stackFromEnd = true
-        toursRV.layoutManager = linearLayoutManager
+        recyclerView.layoutManager = linearLayoutManager // Add your recycler view to this ZoomRecycler layout
 ```
 ### Orientation Types
 ```
@@ -82,8 +82,8 @@ Add dependency in your app module
 ### Use SnapHelper for Auto Center Views
 ```
         val snapHelper = LinearSnapHelper()
-        snapHelper.attachToRecyclerView(toursRV)
-        toursRV.isNestedScrollingEnabled = false
+        snapHelper.attachToRecyclerView(recyclerView) // Add your recycler view here
+        recyclerView.isNestedScrollingEnabled = false
 ```
 
 
