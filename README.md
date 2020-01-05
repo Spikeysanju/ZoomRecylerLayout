@@ -4,14 +4,26 @@
 [![API](https://img.shields.io/badge/API-11%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=22)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-Beautiful RecyclerView Zoom Animation for Android
+An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotlin. 
 
 ## Preview
 ![gif](https://raw.githubusercontent.com/Spikeysanju/ZoomRecylerLayout/master/ezgif.com-video-to-gif.gif)
 
+<table style="width:100%">
+  <tr>
+    <th>1. Horizontal Scroll </th>
+    <th>2. Vertical Scroll</th> 
+  </tr>
+  <tr>
+    <td><img src = "https://github.com/Spikeysanju/ZoomRecylerLayout/blob/master/ezgif.com-video-to-gif.gif"/></td> 
+    <td><img src = "https://github.com/Spikeysanju/ZoomRecylerLayout/blob/master/vertical_scroll.gif"/></td> 
+   
+  </tr>
+</table>
+
 ## About
 
-An beautiful Zoom Animation RecyclerView Items for Android using Kotlin. 
+An beautiful Zoom Animation for RecyclerView Items in Android using Kotlin. 
 
 ## Dependency
 
