@@ -58,7 +58,7 @@ Add dependency in your app module
 
 ### Kotlin
 ```
-        val linearLayoutManager = ZoomRecylerLayout(this)
+        val linearLayoutManager = ZoomRecyclerLayout(this)
 ```
 
 ### Detailed Usage
