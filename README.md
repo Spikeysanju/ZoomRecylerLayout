@@ -86,13 +86,19 @@ Add dependency in your app module
         recyclerView.isNestedScrollingEnabled = false
 ```
 
+# Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme2/spikeysanju)
+
+
 
 ## License
 
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 ```
-Copyright 2016 Spikey Sanju
+Copyright 2020 Spikey Sanju
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
